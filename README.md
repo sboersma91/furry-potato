@@ -1,2 +1,2 @@
 # furry-potato
-the first repository
+This repository is for the Data Science Capstone 
