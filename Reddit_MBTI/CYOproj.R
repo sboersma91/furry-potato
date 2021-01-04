@@ -8,7 +8,7 @@ if(!require(caret)) install.packages("caret", repos = "http://cran.us.r-project.
 library(tidyverse)
 library(caret)
 
-reddit <- read.csv(unzip("./Capstone/reddit_psychometric_data.zip"))
+reddit <- read.csv(unzip("./data/reddit_psychometric_data.zip"))
 
 
 # Exploration-------
